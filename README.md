@@ -9,7 +9,7 @@
 
 ### 📚 Sobre mim
 
-- 👩‍💻 Atualmente curso **TADS** na **Universidade do Estado de Santa Catarina (UDESC)** – CCT
+- 👩‍💻 Atualmente curso **TADS** na **Universidade do Estado de Santa Catarina Centro de Ciências Tecnológcas (UDESC CCT)**
 - 📌 Faço parte do projeto de extensão **Assistiva**, voltado para inclusão e acessibilidade
 - 🧠 Tenho interesse especial por:
   - Desenvolvimento web (HTML, CSS, JavaScript)
