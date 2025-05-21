@@ -11,6 +11,9 @@
 
 - 👩‍💻 Atualmente curso **TADS** na **Universidade do Estado de Santa Catarina Centro de Ciências Tecnológcas (UDESC CCT)**
 - 📌 Faço parte do projeto de extensão **Assistiva**, voltado para inclusão e acessibilidade
+- 🌟 Integro a **Liga Ágora**, sendo *líder do pilar cultural* no ecossistema de inovação do Ágora Tech Park
+  - A Liga Ágora promove vivências, formações e eventos voltados ao desenvolvimento de competências essenciais para o futuro, como inovação, criatividade e colaboração.
+  - No cultural, atuamos com a missão de humanizar a tecnologia por meio de experiências artísticas, expressivas e inspiradoras — como oficinas criativas, rodas de conversa, eventos temáticos e ações culturais integradas com o parque tecnológico.
 - 🧠 Tenho interesse especial por:
   - Desenvolvimento web (HTML, CSS, JavaScript)
   - Programação voltada à **tecnologia assistiva**
