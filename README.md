@@ -43,10 +43,6 @@
 
 ---
 
-![Snake animation](https://github.com/tataFaucz/tataFaucz/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
