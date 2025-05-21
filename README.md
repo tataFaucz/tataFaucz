@@ -1,31 +1,46 @@
-## Oiii eu sou a Tatá Faucz, estudante de programação e futura dev!
+## Oiii, eu sou a Tatá Faucz! 🚀
 
 <p align="center">
-🎓 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas | 💻 Apaixonada por tecnologia assistiva, código e criatividade.  
+🎓 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na UDESC<br>
+💡 Apaixonada por tecnologia assistiva, jogos educativos e criatividade sem limites 💻🎮
 </p>
+
+---
 
 ### 📚 Sobre mim
 
-- 🎓 Estudando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) na Universidade do Estado de Santa Catarina - UDESC
-- 💡 Gosto de fazer pesquisas sobre novas tecnologias no mundo da inclusão social, e tento aplicá-las do meu jeitinho.
-- 🧠 Interesses: desenvolvimento web, tecnologia assistiva, desenvolvimento de games (educativos ou não) e o ecossistema de inovação.
-- 💬 Aberta a colaborações em projetos open-source, desafios técnicos e programação iniciante de jogos.
+- 👩‍💻 Atualmente curso **TADS** na **Universidade do Estado de Santa Catarina (UDESC)** – CCT
+- 📌 Faço parte do projeto de extensão **Assistiva**, voltado para inclusão e acessibilidade
+- 🧠 Tenho interesse especial por:
+  - Desenvolvimento web (HTML, CSS, JavaScript)
+  - Programação voltada à **tecnologia assistiva**
+  - Jogos educativos e ferramentas de apoio à aprendizagem
+  - Inovação social e comunicação digital
+- 🧩 Também tenho experiência com:
+  - Lógica de programação
+  - Python e Java (em projetos acadêmicos)
+  - Atividades de divulgação científica e acadêmica
+- 💬 Ofereço aulas de reforço em matemática e lógica de programação para iniciantes
+- ✨ Estou sempre buscando aprender, criar e contribuir com projetos que impactam positivamente a sociedade!
 
 ---
 
-### 📌 Projetos em destaque
+### 💡 Projetos em destaque
 
-- 👨‍💻 [**DuoLibras**](https://tatafaucz.github.io/duolibras/) —  Plataforma gamificada e desenvolvida por mim para letramento de Libras para crianças!
+- 🎮 [**DuoLibras**](https://tatafaucz.github.io/duolibras/)  
+  Plataforma gamificada para auxiliar no **letramento e alfabetização em Libras**, desenvolvida com foco em crianças e educação inclusiva.
 
 ---
 
-### 📈 Estatísticas GitHub
+### 📈 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tataFaucz&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
+
+### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tatá-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,28 +49,21 @@
   <img align="center" alt="Tatá-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tatá-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-  
-  ##
- 
+
+---
+
+### 🌐 Contato
+
 <div> 
-  <a href="https://instagram.com/tata.faucz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thais.faucz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thais-faucz-jasse-9136a027b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://instagram.com/tata.faucz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:thais.faucz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thais-faucz-jasse-9136a027b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
+---
 
 <!--
 **tataFaucz/tataFaucz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Aqui você encontra um pedacinho da minha trajetória como estudante, pesquisadora e futura desenvolvedora! 🌟
 -->
