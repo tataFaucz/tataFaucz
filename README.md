@@ -11,33 +11,37 @@
 
 ### 📚 Sobre mim
 
-- 👩‍💻 Curso **TADS** na **UDESC CCT (Universidade do Estado de Santa Catarina – Centro de Ciências Tecnológicas)**
-- ♿ Faço parte do projeto de extensão **Assistiva**, promovendo acessibilidade e inclusão por meio da tecnologia
-- 🌟 Integro a **Liga Ágora** como *líder do pilar cultural*, conectando arte e inovação no ecossistema do Ágora Tech Park
-  - Desenvolvemos experiências imersivas como oficinas criativas, rodas de conversa e ações artísticas com foco em humanizar a tecnologia
-- 🧠 Tenho interesse especial por:
-  - Desenvolvimento Web (HTML, CSS, JavaScript)
+- 👩‍💻 Cursando **TADS** na **UDESC CCT (Centro de Ciências Tecnológicas da Universidade do Estado de Santa Catarina)**
+- ♿ Integrante do projeto de extensão **Assistiva**, promovendo acessibilidade e inclusão por meio da tecnologia
+- 🎨 Líder do pilar cultural da **Liga Ágora**, conectando arte, inovação e experiências imersivas no ecossistema do Ágora Tech Park  
+  - Oficinas criativas, rodas de conversa e ações artísticas que aproximam tecnologia das pessoas
+- 🧠 Interesses especiais:
+  - Desenvolvimento web (HTML, CSS, JavaScript)
   - Programação voltada à **tecnologia assistiva**
-  - Jogos educativos e gamificação para aprendizagem
-  - Comunicação digital e inovação social
-- 💬 Ofereço **aulas particulares** de reforço em matemática e lógica de programação
-- 📚 Experiência com:
+  - Gamificação e jogos educativos para o letramento
+  - Comunicação digital, design e inovação social
+- 👩‍🏫 Ofereço **aulas particulares** de reforço em matemática e lógica de programação
+- 📌 Experiência com:
   - Python e Java (em projetos acadêmicos)
-  - Lógica de programação e estrutura de dados
+  - Estrutura de dados e lógica de programação
   - Divulgação científica e criação de conteúdo educativo
-- ☕ Curiosidade: Sou apaixonada por chás, livros de fantasia e filosofia!
+- ☕ Curiosidade: Amo chás e livros de fantasia! ✨📖
 
 ---
 
 ### 💡 Projetos em destaque
 
 - 🎮 [**DuoLibras**](https://tatafaucz.github.io/duolibras/)  
-  Plataforma gamificada para **letramento e alfabetização em Libras**, com foco em crianças e educação inclusiva.
+  Jogo educativo gamificado para **letramento e alfabetização em Libras**, com foco em crianças e educação inclusiva.
 
 - 🍬 [**Strawberry Shortcake Arcade**](https://github.com/tataFaucz/Strawberry-Shortcake-Arcade)  
-  Jogo web inspirado no Candy Crush, com sistema de cadastro, pontuação e ranking em tempo real — tudo isso com a doçura da Moranguinho!
+  Jogo web no estilo Candy Crush, com sistema de cadastro, pontuação e ranking em tempo real — com a doçura da Moranguinho!
 
-🔎 *Explore meus repositórios para ver mais ideias doces e criativas!*
+- 🧩 [**Rede Social Demo**](https://github.com/tataFaucz/Projeto-Rede-Social)  
+  Protótipo de rede social inspirado na série *De Volta aos 15* e no Orkut, utilizando **Java Swing**.  
+  Projeto desenvolvido com foco em nostalgia, interfaces gráficas e conexão entre usuários.
+
+🔎 *Explore meus repositórios para conhecer mais ideias doces, acessíveis e criativas!*
 
 ---
 
@@ -81,7 +85,6 @@
 ---
 
 <!--
-**tataFaucz/tataFaucz** is a ✨ _special_ ✨ repository because its `README.md` aparece em destaque no seu perfil GitHub.
-
-Aqui você encontra um pedacinho da minha trajetória como estudante, pesquisadora e futura desenvolvedora! 🌟
+✨ Este repositório é um reflexo da minha trajetória como estudante, criadora e futura desenvolvedora de impacto.  
+Aqui compartilho conhecimento, projetos acessíveis e o desejo de transformar o mundo com empatia e tecnologia! ✨
 -->
