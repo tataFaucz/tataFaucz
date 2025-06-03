@@ -22,10 +22,11 @@
   - Comunicação digital, design e inovação social
 - 👩‍🏫 Ofereço **aulas particulares** de reforço em matemática e lógica de programação
 - 📌 Experiência com:
-  - Python e Java (em projetos acadêmicos)
+  - Python e Java (em projetos acadêmicos e educacionais)
+  - MySQL (modelagem e manipulação de banco de dados relacionais)
   - Estrutura de dados e lógica de programação
   - Divulgação científica e criação de conteúdo educativo
-- ☕ Curiosidade: Amo chás e livros de fantasia! ✨📖
+- ☕ Curiosidade: Amo chás, filosofia e livros de fantasia! ✨📖
 
 ---
 
@@ -69,6 +70,7 @@
   <img align="center" alt="Tatá-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tatá-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tatá-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Tatá-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Tatá-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
