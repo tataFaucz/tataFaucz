@@ -46,6 +46,15 @@
 
 ---
 
+
+### 🐍 Meus commits ao longo do tempo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tataFaucz/tataFaucz/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
