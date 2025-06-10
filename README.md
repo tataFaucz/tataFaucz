@@ -35,8 +35,8 @@
 - 🎮 [**DuoLibras**](https://tatafaucz.github.io/duolibras/)  
   Jogo educativo gamificado para **letramento e alfabetização em Libras**, com foco em crianças e educação inclusiva.
 
-- 🍬 [**Strawberry Shortcake Arcade**](https://github.com/tataFaucz/Strawberry-Shortcake-Arcade)  
-  Jogo web no estilo Candy Crush, com sistema de cadastro, pontuação e ranking em tempo real — com a doçura da Moranguinho!
+- 📖 [**eBook de Poesias**](https://tatafaucz.github.io/livro_poesia/)  
+  Um site delicado e responsivo que apresenta uma coletânea de poesias autorais. Desenvolvido com **HTML, CSS e JavaScript puro**, o projeto proporciona uma navegação intuitiva por poemas, informações sobre a autora e a motivação por trás da obra.
 
 - 🧩 [**Rede Social Demo**](https://github.com/tataFaucz/Projeto-Rede-Social)  
   Protótipo de rede social inspirado na série *De Volta aos 15* e no Orkut, utilizando **Java Swing**.  
