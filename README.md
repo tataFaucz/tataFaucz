@@ -43,9 +43,16 @@
 
 ### 📈 Estatísticas do GitHub
 
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tataFaucz&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 💫 Status
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tataFaucz&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tataFaucz&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
