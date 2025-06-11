@@ -37,7 +37,7 @@
 - 📖 [**eBook de Poesias**](https://tatafaucz.github.io/livro_poesia/): Coletânea de poesias autorais com navegação intuitiva, design responsivo e poesia em cada detalhe.
 - 🧩 [**Rede Social Demo**](https://github.com/tataFaucz/Projeto-Rede-Social): Protótipo de rede social desenvolvido com Java Swing.
 
-🔎 *Explore meus repositórios para conhecer mais ideias doces, acessíveis e criativas!*
+🔎 *Explore meus repositórios para conhecer mais criativas!*
 
 ---
 
