@@ -17,7 +17,6 @@
 
 - 👩‍💻 Cursando **TADS** na **UDESC CCT**
 - ♿ Integrante do projeto de extensão **Assistiva** (acessibilidade e inclusão)
-- 🎨 Líder cultural na **Liga Ágora** (arte, inovação e experiências imersivas)
 - 💬 Adoro compartilhar conhecimento e criar soluções para educação inclusiva
 - 🧠 **Interesses**:
   - Desenvolvimento web (HTML, CSS, JavaScript)
@@ -25,9 +24,7 @@
   - Tecnologia assistiva e acessibilidade
   - Gamificação, jogos educativos e inovação social
   - Design, comunicação digital & experiências interativas
-- 👩‍🏫 Aulas particulares de matemática e lógica de programação
-- 📌 Experiência com: Python, Java, MySQL, HTML, CSS, JavaScript, Design e divulgação científica
-- ☕ Curiosidade: Amo chás, filosofia e livros de fantasia! ✨📖
+- 📌 Experiência com: Python, Java, MySQL, HTML, CSS e JavaScript
 
 ---
 
