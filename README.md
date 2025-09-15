@@ -8,7 +8,6 @@
   <b>Estudante de Tecnologia • Estudante de Acessibilidade • Criadora de experiências educativas</b><br>
   <br>
   🎓 <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> - UDESC CCT<br>
-  ♿ <b>Entusiasta de tecnologia assistiva, jogos educativos e criatividade sem limites</b> 🎮✨
 </p>
 
 ---
